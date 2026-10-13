@@ -10,6 +10,7 @@ Build
 *.opendb
 *.sdf
 *.sln
+*.slnx
 *.opensdf
 *.suo
 *.xcodeproj
